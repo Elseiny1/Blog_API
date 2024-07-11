@@ -1,8 +1,20 @@
+using Personal_Blogs.DAL.Database;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 
 builder.Services.AddControllers();
+
+//Database Configuration
+#region Database
+builder.Services.AddDbContext<ApplicationDbContext>(x => x.UseSqlServer
+(builder.Configuration.GetConnectionString("DbConnection")));
+
+
+
+#endregion
+
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
