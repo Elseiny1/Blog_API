@@ -25,7 +25,7 @@ namespace Personal_Blogs.Core.Repos
                 Blog_Id = blog.Id,
                 Titel = blog.Title,
                 Content = blog.Content,
-                Blog_Date = DateTime.UtcNow
+                Blog_Date = blog.Blog_Date
             };
             _context.Add(newBlog);
             _context.SaveChanges();
@@ -39,14 +39,14 @@ namespace Personal_Blogs.Core.Repos
 
             return blog;
         }
-        public async Task<bool> UpdateBlogAsync(int id)
+        public async Task<bool> UpdateBlogAsync(BlogDto model)
         {
-            var blog =await GetBlogAsync(id);
+            var blog =await GetBlogAsync(model.);
             if (blog is null)
                 return false;
-            blog.Titel = blog.Titel;
-            blog.Content = blog.Content;
-            blog.Blog_Date = DateTime.UtcNow;
+            blog.Titel = model.Title;
+            blog.Content = model.Content;
+            blog.Blog_Date = model.Blog_Date;
 
             _context.Update(blog);
             _context.SaveChanges();

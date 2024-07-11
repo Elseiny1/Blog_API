@@ -15,7 +15,7 @@ namespace Personal_Blogs.Core.Dtos
         [MaxLength(250)]
         public string Content { get; set; }
 
-        public DateTime Blog_Date { get; set; }
+        public DateTime Blog_Date => DateTime.UtcNow;
 
     }
 }
