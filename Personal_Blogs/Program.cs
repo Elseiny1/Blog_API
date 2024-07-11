@@ -1,4 +1,6 @@
 using Microsoft.EntityFrameworkCore;
+using Personal_Blogs.Core.IRepos;
+using Personal_Blogs.Core.Repos;
 using Personal_Blogs.DAL.Database;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -12,6 +14,13 @@ builder.Services.AddControllers();
 builder.Services.AddDbContext<ApplicationDbContext>(x => x.UseSqlServer
 (builder.Configuration.GetConnectionString("DbConnection")));
 
+
+
+#endregion
+
+//Add repository services
+#region Repos
+builder.Services.AddScoped<IBlogs, Blogs>();
 
 
 #endregion
