@@ -1,0 +1,14 @@
+H:\Intern2Grow\Blog API\Blog_API\Personal_Blogs.DAL\Personal_Blogs.DAL\bin\Debug\net6.0\Personal_Blogs.DAL.deps.json
+H:\Intern2Grow\Blog API\Blog_API\Personal_Blogs.DAL\Personal_Blogs.DAL\bin\Debug\net6.0\Personal_Blogs.DAL.runtimeconfig.json
+H:\Intern2Grow\Blog API\Blog_API\Personal_Blogs.DAL\Personal_Blogs.DAL\bin\Debug\net6.0\Personal_Blogs.DAL.dll
+H:\Intern2Grow\Blog API\Blog_API\Personal_Blogs.DAL\Personal_Blogs.DAL\bin\Debug\net6.0\Personal_Blogs.DAL.pdb
+H:\Intern2Grow\Blog API\Blog_API\Personal_Blogs.DAL\Personal_Blogs.DAL\obj\Debug\net6.0\Personal_Blogs.DAL.csproj.AssemblyReference.cache
+H:\Intern2Grow\Blog API\Blog_API\Personal_Blogs.DAL\Personal_Blogs.DAL\obj\Debug\net6.0\Personal_Blogs.DAL.GeneratedMSBuildEditorConfig.editorconfig
+H:\Intern2Grow\Blog API\Blog_API\Personal_Blogs.DAL\Personal_Blogs.DAL\obj\Debug\net6.0\Personal_Blogs.DAL.AssemblyInfoInputs.cache
+H:\Intern2Grow\Blog API\Blog_API\Personal_Blogs.DAL\Personal_Blogs.DAL\obj\Debug\net6.0\Personal_Blogs.DAL.AssemblyInfo.cs
+H:\Intern2Grow\Blog API\Blog_API\Personal_Blogs.DAL\Personal_Blogs.DAL\obj\Debug\net6.0\Personal_Blogs.DAL.csproj.CoreCompileInputs.cache
+H:\Intern2Grow\Blog API\Blog_API\Personal_Blogs.DAL\Personal_Blogs.DAL\obj\Debug\net6.0\Personal_Blogs.DAL.dll
+H:\Intern2Grow\Blog API\Blog_API\Personal_Blogs.DAL\Personal_Blogs.DAL\obj\Debug\net6.0\refint\Personal_Blogs.DAL.dll
+H:\Intern2Grow\Blog API\Blog_API\Personal_Blogs.DAL\Personal_Blogs.DAL\obj\Debug\net6.0\Personal_Blogs.DAL.pdb
+H:\Intern2Grow\Blog API\Blog_API\Personal_Blogs.DAL\Personal_Blogs.DAL\obj\Debug\net6.0\Personal_Blogs.DAL.genruntimeconfig.cache
+H:\Intern2Grow\Blog API\Blog_API\Personal_Blogs.DAL\Personal_Blogs.DAL\obj\Debug\net6.0\ref\Personal_Blogs.DAL.dll

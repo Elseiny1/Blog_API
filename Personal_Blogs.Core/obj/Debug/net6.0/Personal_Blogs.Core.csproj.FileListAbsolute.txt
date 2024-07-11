@@ -1,0 +1,15 @@
+H:\Intern2Grow\Blog API\Blog_API\Personal_Blogs.Core\bin\Debug\net6.0\Personal_Blogs.Core.deps.json
+H:\Intern2Grow\Blog API\Blog_API\Personal_Blogs.Core\bin\Debug\net6.0\Personal_Blogs.Core.dll
+H:\Intern2Grow\Blog API\Blog_API\Personal_Blogs.Core\bin\Debug\net6.0\Personal_Blogs.Core.pdb
+H:\Intern2Grow\Blog API\Blog_API\Personal_Blogs.Core\bin\Debug\net6.0\Personal_Blogs.DAL.dll
+H:\Intern2Grow\Blog API\Blog_API\Personal_Blogs.Core\bin\Debug\net6.0\Personal_Blogs.DAL.pdb
+H:\Intern2Grow\Blog API\Blog_API\Personal_Blogs.Core\obj\Debug\net6.0\Personal_Blogs.Core.csproj.AssemblyReference.cache
+H:\Intern2Grow\Blog API\Blog_API\Personal_Blogs.Core\obj\Debug\net6.0\Personal_Blogs.Core.GeneratedMSBuildEditorConfig.editorconfig
+H:\Intern2Grow\Blog API\Blog_API\Personal_Blogs.Core\obj\Debug\net6.0\Personal_Blogs.Core.AssemblyInfoInputs.cache
+H:\Intern2Grow\Blog API\Blog_API\Personal_Blogs.Core\obj\Debug\net6.0\Personal_Blogs.Core.AssemblyInfo.cs
+H:\Intern2Grow\Blog API\Blog_API\Personal_Blogs.Core\obj\Debug\net6.0\Personal_Blogs.Core.csproj.CoreCompileInputs.cache
+H:\Intern2Grow\Blog API\Blog_API\Personal_Blogs.Core\obj\Debug\net6.0\Personal_Blogs.Core.csproj.CopyComplete
+H:\Intern2Grow\Blog API\Blog_API\Personal_Blogs.Core\obj\Debug\net6.0\Personal_Blogs.Core.dll
+H:\Intern2Grow\Blog API\Blog_API\Personal_Blogs.Core\obj\Debug\net6.0\refint\Personal_Blogs.Core.dll
+H:\Intern2Grow\Blog API\Blog_API\Personal_Blogs.Core\obj\Debug\net6.0\Personal_Blogs.Core.pdb
+H:\Intern2Grow\Blog API\Blog_API\Personal_Blogs.Core\obj\Debug\net6.0\ref\Personal_Blogs.Core.dll

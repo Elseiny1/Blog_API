@@ -1779,8 +1779,8 @@
     },
     "Personal_Blogs.DAL/1.0.0": {
       "type": "project",
-      "path": "../Personal_Blogs/Personal_Blogs.DAL/Personal_Blogs.DAL.csproj",
-      "msbuildProject": "../Personal_Blogs/Personal_Blogs.DAL/Personal_Blogs.DAL.csproj"
+      "path": "../Personal_Blogs.DAL/Personal_Blogs.DAL/Personal_Blogs.DAL.csproj",
+      "msbuildProject": "../Personal_Blogs.DAL/Personal_Blogs.DAL/Personal_Blogs.DAL.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -1820,8 +1820,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "H:\\Intern2Grow\\Blog API\\Blog_API\\Personal_Blogs\\Personal_Blogs.DAL\\Personal_Blogs.DAL.csproj": {
-              "projectPath": "H:\\Intern2Grow\\Blog API\\Blog_API\\Personal_Blogs\\Personal_Blogs.DAL\\Personal_Blogs.DAL.csproj"
+            "H:\\Intern2Grow\\Blog API\\Blog_API\\Personal_Blogs.DAL\\Personal_Blogs.DAL\\Personal_Blogs.DAL.csproj": {
+              "projectPath": "H:\\Intern2Grow\\Blog API\\Blog_API\\Personal_Blogs.DAL\\Personal_Blogs.DAL\\Personal_Blogs.DAL.csproj"
             }
           }
         }

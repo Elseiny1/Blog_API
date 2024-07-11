@@ -1,3 +1,4 @@
+using Microsoft.EntityFrameworkCore;
 using Personal_Blogs.DAL.Database;
 
 var builder = WebApplication.CreateBuilder(args);
