@@ -22,7 +22,6 @@ namespace Personal_Blogs.Core.Repos
         {
             var newBlog = new Blog
             {
-                Blog_Id = blog.Id,
                 Titel = blog.Title,
                 Content = blog.Content,
                 Blog_Date = blog.Blog_Date
@@ -41,7 +40,7 @@ namespace Personal_Blogs.Core.Repos
         }
         public async Task<bool> UpdateBlogAsync(BlogDto model)
         {
-            var blog =await GetBlogAsync(model.);
+            var blog =await GetBlogAsync(model.Id);
             if (blog is null)
                 return false;
             blog.Titel = model.Title;
